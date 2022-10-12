@@ -1,3 +1,5 @@
+package Other;
+
 //Represents a vertical and horizontal direction as an object
 class JsonValue {
     private String vertical;
